@@ -23,4 +23,6 @@ assets/images/
 - Swap a photo: replace the file in `assets/images/...` keeping the same name, or update the `src` and `data-full` paths.
 
 ## Deploy
-Upload the whole folder to Netlify Drop, Vercel or GitHub Pages. No build step needed.
+Live at https://tosinoace.github.io/oluwatomi-portfolio/ (GitHub Pages, deploys automatically on every push to `main`).
+
+It can also be uploaded as-is to Netlify Drop or Vercel. No build step needed.
